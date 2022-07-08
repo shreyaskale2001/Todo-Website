@@ -1,13 +1,9 @@
 # Todo-Website
-Todo is a Web Based Notes Making App.
-
 Todo is an app used to maintain our day-to-day tasks or list everything that we have to do. 
 
-It, allow user to add, update and delete.  It allows user to create and manage notes without logging in to the system or without creating any account and keeps the notes seperate from user to user by using the cookies.
+It allow user to add, update and delete.  here we can add what task we want to do and some description also it allow you to update and delete task. 
 
 It is built with HTML, CSS as Front End and Python Flask as Back End. Sql is used to deal with database.
-
-
 
 # Requirement
 ##### Softwares used
@@ -30,4 +26,4 @@ It is built with HTML, CSS as Front End and Python Flask as Back End. Sql is use
 - css
 ```
 
-![screeshot1](https://github.com/shreyaskale2001/Todo-Website/blob/master/Screenshot%20(249).png "screeshot1")![screeshot1](https://github.com/shreyaskale2001/Todo-Website/blob/master/Screenshot%20(249).png "screeshot1")
+![screenshot](https://github.com/shreyaskale2001/Todo-Website/blob/master/Screenshot.png "screenshot")
