@@ -9,7 +9,7 @@ It is built with HTML, CSS as Front End and Python Flask as Back End. Sql is use
 
 
 
-#Requirement
+# Requirement
 ##### Softwares used
 ```
 - Pycharm 
@@ -22,7 +22,7 @@ It is built with HTML, CSS as Front End and Python Flask as Back End. Sql is use
 -SQLAlchemy
 -datetime
 ```
-#####Programming languages used
+##### Programming languages used
 ```
 - Python
 - Sql
